@@ -55,3 +55,23 @@ body {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+#tile-swd {
+    background-color: #000665;
+    color: white;
+}
+
+#tile-lbxd {
+    background-color: #f0ff1d;
+    color: black;
+}
+
+#tile-boxd {
+    background-color: black;
+    color: white;
+}
+
+#tile-cad {
+    background-color: #C0C0C0;
+    color: black;
+}
